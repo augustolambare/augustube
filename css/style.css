@@ -67,3 +67,28 @@ header .section-1, .section-2, .section-3 {
     height: 20px;
     margin: auto;
 }
+.section-3 {
+    display: inline-flex;
+}
+.section-3 .upload {
+    display: flex;
+}
+.section-3 .upload img {
+    width: 20px;
+    margin: auto 15px;
+}
+.section-3 .notification {
+    display: flex;
+}
+.section-3 .notification img {
+    width: 20px;
+    margin: auto 15px;
+}
+.section-3 .profile {
+    display: flex;
+}
+.section-3 .profile img {
+    width: 32px;
+    margin: auto 15px;
+    border-radius: 50%;
+}
