@@ -92,3 +92,19 @@ header .section-1, .section-2, .section-3 {
     margin: auto 15px;
     border-radius: 50%;
 }
+
+/*Sidebar*/
+.sidebar {
+    width: 204px;
+    padding: 10px;
+}
+.sidebar .main div {
+    height: 40px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+.sidebar .main div img {
+    height: 20px;
+    padding: 0 20px 0 10px;
+}
