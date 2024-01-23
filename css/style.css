@@ -98,13 +98,13 @@ header .section-1, .section-2, .section-3 {
     width: 204px;
     padding: 10px;
 }
-.sidebar .main div {
+.sidebar div {
     height: 40px;
     font-size: 14px;
     display: flex;
     align-items: center;
 }
-.sidebar .main div img {
+.sidebar img {
     height: 20px;
     padding: 0 20px 0 10px;
 }
