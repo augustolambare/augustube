@@ -98,13 +98,15 @@ header .section-1, .section-2, .section-3 {
     width: 204px;
     padding: 10px;
 }
-.sidebar div {
+.sidebar section a {
+    text-decoration: none;
+    color: black;
     height: 40px;
     font-size: 14px;
     display: flex;
     align-items: center;
 }
-.sidebar img {
+.sidebar section a img {
     height: 20px;
     padding: 0 20px 0 10px;
 }
